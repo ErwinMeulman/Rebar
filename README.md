@@ -18,3 +18,5 @@ gB500NC: steel grade
 s50 –bending diameter [mm]
 a: layer
 This item has 8040 mm Total Length with two 90 °hooks with a bending diameter of 50 mm, and the Length at each end is 2290 mm.
+
+![Screenshot](https://github.com/ErwinMeulman/Rebar/blob/master/BVBS-specification-6.png)
