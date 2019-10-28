@@ -2,7 +2,7 @@
 
 C:\Program Files\Symetri\Naviate\Revit 2020\Dll\NVBVBSPreview.exe
 
-![Screenshot](https://raw.githubusercontent.com/ErwinMeulman/Rebar/master/rebar.png)
+![Screenshot](https://raw.githubusercontent.com/ErwinMeulman/Rebar/master/rebarpreview.png)
 
 BF2D@Hj@runset@iunset@p1@l8040,00@n1@e7,13@d12,00@gB500C@s50,00@v@a@Gl2290@w0@r46@w90@l3320@w0@r46@w90@l2290@w0@C70@
 
